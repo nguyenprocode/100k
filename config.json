@@ -3,15 +3,16 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": "TnguyenNek 🌃",
-    "AMDIN_NAME": "Bùi Thanh Nguyên",
-    "keyRent": "Tnguyen",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/thanhnguyentrummeta/",
-    "PREFIX": "/",
+    "BOTNAME": "NgocHieu 🌇",
+    "AMDIN_NAME": "Ngọc Hiếu",
+    "keyRent": "NgHieu",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/ngoc.hieu.895955",
+    "PREFIX": ".",
     "box_admin": "",
     "ADMINBOT": [
         "100056204041775",
-        ""
+        "100075001681009",
+        "100090849805609"
     ],
     "NDH": [],
     "FCAOption": {
