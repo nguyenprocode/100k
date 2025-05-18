@@ -1,6 +1,7 @@
 const { spawn } = require("child_process");
 const log = require("./utils/log");
-require('./includes/chess/covua');
+
+// Đã xóa dòng require './includes/chess/covua'
 
 const startBot = () => {
     log('🌸 ĐANG KHỞI ĐỘNG BOT', "⟦ KÍCH HOẠT ⟧⪼ ");
@@ -24,7 +25,7 @@ const startBot = () => {
             startBot();
         } else {
             log(`Kết thúc chương trình với mã thoát ${exitCode}`, "[ Khởi động ]");
-            process.exit(0)
+            process.exit(0);
         }
     });
 
@@ -34,7 +35,3 @@ const startBot = () => {
 };
 
 startBot();
-
-
-
-
